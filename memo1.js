@@ -7,3 +7,4 @@ const fib = (n, memo = {}) => {
 
 console.log(fib(6)); //8
 console.log(fib(50)); //12586269025
+
